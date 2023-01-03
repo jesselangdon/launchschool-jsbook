@@ -1,0 +1,1 @@
+// This should cause an error, because the foo variable was declared with a local scope, will cause an error when referenced outside of that scope.
